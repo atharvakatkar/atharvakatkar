@@ -1,5 +1,6 @@
 # About Me
 Fraud detection pipelines, ML-powered web apps, and multi-agents platforms - with a focus on making models that hold up in production, not just in notebooks.
+
 🔭 Currently working on closing the gap between technically correct ML models and ones that actually work for real users - cleaner inputs, better UI, and models retrained on data that reflects the world.<br>
 
 👯 Looking to collaborate on projects where the data problem is genuinely hard - messy, inbalanced, or high-stakes. Particularly interested in financial risk, NLP, and applied ML that ships to real users.<br>
